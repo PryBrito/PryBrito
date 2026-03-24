@@ -1,7 +1,6 @@
-### Hey you! Pry here o/
+### $\color{grey}{\text{Hey you! Pry here o/}}$
 
-- 🌱 I’m currently learning Data Science applied to Geology
-- 😄 Pronouns: she/her
+- 🌱 $\color{orange}{\text{I'm currently learning Data Science applied to Geology}}$
 <!--
 **PryBrito/PryBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

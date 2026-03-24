@@ -1,5 +1,7 @@
-## Hey you! Pry here o/
+### Hey you! Pry here o/
 
+- 🌱 I’m currently learning Data Science applied to Geology
+- 😄 Pronouns: she/her
 <!--
 **PryBrito/PryBrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
